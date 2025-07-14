@@ -284,8 +284,8 @@ header {
     height: 20.0625rem;
 }
 .grid-port .grid-col img{
-    width: 30.31rem;
-    height: 20rem;
+    width: 30%;
+    height: 20.0625rem;
     object-fit: cover;
 
 }
